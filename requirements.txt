@@ -1,3 +1,9 @@
 os-sys
 opencv-python
 os-sys
+selenium
+time
+os
+requests
+Pillow
+hashlib
